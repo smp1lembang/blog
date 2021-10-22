@@ -8,11 +8,11 @@ Pada bulan Oktober 2021 ini terdapat 16 siswa Penerima PIP, 15 siswa merupakan S
 
 Berikut daftar nama penerima PIP Oktober 2021
 
-# Siswa SK Pemberian
+## Siswa SK Pemberian
 <details>
   <summary>Klik untuk membuka</summary>
   
-  ## Syarat dan ketentuan
+  Syarat dan ketentuan
 
   Daftar nama penerima
 
@@ -39,11 +39,11 @@ Berikut daftar nama penerima PIP Oktober 2021
 
 kenapa ngk muncul
 
-# Siswa Nominasi
+## Siswa Nominasi
 <details>
   <summary>Klik untuk membuka</summary>
   
-  ## Syarat dan ketentuan
+  Syarat dan ketentuan
 
   Daftar nama penerima
   
@@ -54,18 +54,3 @@ kenapa ngk muncul
 
 
 </details>
-
-coba ini
-
-# A collapsible section with markdown
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
-
-
