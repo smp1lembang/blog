@@ -37,19 +37,4 @@ Berikut daftar nama penerima PIP Oktober 2021
 
 </details>
 
-# Siswa Nominasi
-<details>
-  <summary>Klik untuk membuka</summary>
-  
-  ## Syarat dan ketentuan
-
-  Daftar nama penerima
-  
-| NO | NISN       | NAMA                      | ROMBEL | TAHAP |
-| -- | ---------- | ------------------------- | ------ | ----- |
-| 1  | 0078321145 | LAILATUL MUFIDA RAMADHANI | 9.4    | 30    |
-
-
-
-</details>
-
+kenapa ngk muncul
