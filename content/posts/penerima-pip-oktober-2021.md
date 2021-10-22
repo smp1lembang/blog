@@ -1,15 +1,20 @@
 ---
-title: "Penerima Pip Oktober 2021"
+title: "Penerima PIP Oktober 2021"
 date: 2021-10-23T06:07:49+08:00
 draft: false
 ---
 
-Terdapat 16 siswa Penerima PIP pada bulan Oktober 2021. 15 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 1 siswa merupakan siswa nominasi (penerima baru)
+Pada bulan Oktober 2021 ini terdapat 16 siswa Penerima PIP, 15 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 1 siswa merupakan siswa nominasi (penerima baru)
 
 Berikut daftar nama penerima PIP Oktober 2021
 
-Siswa SK Pemberian
-Syarat dan ketentuan
+# Siswa SK Pemberian
+<details>
+  <summary>Klik untuk membuka</summary>
+  
+  ## Syarat dan ketentuan
+
+  Daftar nama penerima
 
 | NO | NISN       | NAMA              | ROMBEL | TAHAP |
 | -- | ---------- | ----------------- | ------ | ----- |
@@ -29,10 +34,22 @@ Syarat dan ketentuan
 | 14 | 0089497378 | JUPAING           | 7.4    | 56    |
 | 15 | 0035469972 | WAHYUNI WULANDARI | 8.5    | 52    |
 
-Siswa Nominasi
-Syarat dan ketentuan
 
+</details>
+
+# Siswa Nominasi
+<details>
+  <summary>Klik untuk membuka</summary>
+  
+  ## Syarat dan ketentuan
+
+  Daftar nama penerima
+  
 | NO | NISN       | NAMA                      | ROMBEL | TAHAP |
 | -- | ---------- | ------------------------- | ------ | ----- |
 | 1  | 0078321145 | LAILATUL MUFIDA RAMADHANI | 9.4    | 30    |
+
+
+
+</details>
 
