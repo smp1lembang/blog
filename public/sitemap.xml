@@ -1,0 +1,11 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://example.org/posts/3-apa-yang-jadi/</loc><lastmod>2021-10-23T00:43:05&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/</loc><lastmod>2021-10-23T00:43:05&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/</loc><lastmod>2021-10-23T00:43:05&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/pakai-hipen/</loc><lastmod>2021-10-23T00:42:08&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/posts/apa/</loc><lastmod>2021-10-23T00:40:11&#43;08:00</lastmod></url><url>
+            <loc>http://example.org/categories/</loc></url><url>
+            <loc>http://example.org/tags/</loc></url></urlset>
