@@ -37,7 +37,6 @@ Berikut daftar nama penerima PIP Oktober 2021
 
 </details>
 
-kenapa ngk muncul
 
 ## Siswa Nominasi
 <details>
