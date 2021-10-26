@@ -55,3 +55,6 @@ Berikut daftar nama penerima PIP Oktober 2021
 
 
 </details>
+
+
+{{< image src="/images/lighthouse.jpg" caption="Lighthouse (`image`)" src_s="/images/lighthouse-small.jpg" src_l="/images/lighthouse-large.jpg" >}}

@@ -23,7 +23,7 @@ theme = "LoveIt"
   # ("sha256", "sha384", "sha512", "md5")
   fingerprint = ""
   #  date format
-  dateFormat = "2006-01-02"
+  dateFormat = "02-01-2006"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
@@ -75,7 +75,7 @@ theme = "LoveIt"
       # URL of the LOGO
       logo = ""
       # title name
-      name = ""
+      name = "Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -129,7 +129,7 @@ theme = "LoveIt"
       # Gravatar Email for preferred avatar in home page
       gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = ""
       #  title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
@@ -214,7 +214,7 @@ theme = "LoveIt"
     Matrix = ""
     Bilibili = ""
     Email = ""
-    RSS = true # 
+    RSS = false # 
 
   #  Page config
   [params.page]
