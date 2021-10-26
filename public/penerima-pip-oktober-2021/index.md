@@ -1,8 +1,5 @@
----
-title: "Penerima PIP Oktober 2021"
-date: 2021-10-23T06:07:49+08:00
-draft: false
----
+# Penerima PIP Oktober 2021
+
 
 Pada bulan Oktober 2021 ini terdapat 16 siswa Penerima PIP, 15 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 1 siswa merupakan siswa nominasi (penerima baru)
 
@@ -55,3 +52,4 @@ Berikut daftar nama penerima PIP Oktober 2021
 
 
 </details>
+
