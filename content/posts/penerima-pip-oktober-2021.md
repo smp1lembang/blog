@@ -40,9 +40,9 @@ Berikut daftar nama penerima PIP Oktober 2021
   2) halaman mutasi terakhir tabungan 
   3) Identitas (KIA/KTP/Kartu Keluarga/Rapor)
   
-  Siswa yang tidak melaporkan bukti telah menerima dana tidak akan diusulkan sebagai penerima pada tahap / tahun berikutnya
+  <span style="color:#ff0000"> **Siswa yang tidak melaporkan bukti telah menerima dana tidak akan diusulkan sebagai penerima pada tahap / tahun berikutnya** </span>
   
-  Silakan melaporkan bukti terima kepada operator sekolah (Pak Azhar) hubungi di no/wa 085331308360
+  **Silakan melaporkan bukti terima kepada operator sekolah (Pak Azhar) hubungi di no/wa 085331308360**
 
 </details>
 
@@ -71,8 +71,6 @@ Aktivasi rekening SimPel PIP Dikdasmen langsung oleh Peserta Didik dilakukan den
   - Halaman identitas pada rapor
 
 <span style="color:#ff0000"> **Batas waktu aktivasi rekening PIP sampai 31 Oktober 2021** </span>
-
-**<span style="color:#ff0000"> Batas waktu aktivasi rekening PIP sampai 31 Oktober 2021</span>**
 
 **Setelah aktivasi rekening dana tidak langsung masuk ke rekening, tunggu pengumuman selanjutnya pada daftar nama Siswa SK Pemberian**
 
