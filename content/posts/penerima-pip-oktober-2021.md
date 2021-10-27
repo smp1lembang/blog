@@ -4,17 +4,15 @@ date: 2021-10-23T06:07:49+08:00
 draft: false
 ---
 
-Pada bulan Oktober 2021 ini terdapat 16 siswa Penerima PIP, 15 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 1 siswa merupakan siswa nominasi (penerima baru)
+Pada pengumuman PIP bulan Oktober 2021 kali ini terdapat 16 siswa Penerima PIP, 15 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 1 siswa merupakan siswa nominasi (penerima baru)
 
 Berikut daftar nama penerima PIP Oktober 2021
 
 ## Siswa SK Pemberian
 <details>
-  <summary>Klik untuk membuka</summary>
-  
-  Syarat dan ketentuan
+  <summary>Klik untuk melihat daftar penerima</summary>
 
-  Daftar nama penerima
+  ### Daftar nama penerima
 
 | NO | NISN       | NAMA              | ROMBEL | TAHAP |
 | -- | ---------- | ----------------- | ------ | ----- |
@@ -34,6 +32,17 @@ Berikut daftar nama penerima PIP Oktober 2021
 | 14 | 0089497378 | JUPAING           | 7.4    | 56    |
 | 15 | 0035469972 | WAHYUNI WULANDARI | 8.5    | 52    |
 
+### Syarat dan ketentuan
+  Bagi siswa SK pemberian dapat langsung melakukan pencairan / penarikan dana di bank penyalur (BRI Bungi) baik melalui teller BRI maupun lewat mesin ATM.
+  
+  Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana, yaitu:
+  1) foto buku rekening halaman pertama 
+  2) halaman mutasi terakhir tabungan 
+  3) Identitas (KIA/KTP/Kartu Keluarga/Rapor)
+  
+  Siswa yang tidak melaporkan bukti telah menerima dana tidak akan diusulkan sebagai penerima pada tahap / tahun berikutnya
+  
+  Silakan melaporkan bukti terima kepada operator sekolah (Pak Azhar) hubungi di no/wa 085331308360
 
 </details>
 
@@ -42,15 +51,30 @@ Berikut daftar nama penerima PIP Oktober 2021
 
 <details>
   
-  <summary>Klik untuk membuka</summary>
-  
-  Syarat dan ketentuan
+  <summary>Klik untuk melihat daftar penerima</summary>
 
-  Daftar nama penerima
+  ### Daftar nama penerima
   
 | NO | NISN       | NAMA                      | ROMBEL | TAHAP |
 | -- | ---------- | ------------------------- | ------ | ----- |
 | 1  | 0078321145 | LAILATUL MUFIDA RAMADHANI | 9.4    | 30    |
+
+### Syarat dan ketentuan
+Siswa Nominasi harus terlebih dahulu mengaktifkan / membuat rekening di bank penyalur
+
+Aktivasi rekening SimPel PIP Dikdasmen langsung oleh Peserta Didik dilakukan dengan persyaratan sebagai berikut:
+
+1. Surat Keterangan Aktivasi Rekening SimPel PIP Dikdasmen (sudah ada di Bank BRI Bungi)
+2. Identitas Pengenal Penerima.
+  - KTP orang tua/wali; dan
+  - KK.
+  - Halaman identitas pada rapor
+
+<span style="color:#ff0000"> **Batas waktu aktivasi rekening PIP sampai 31 Oktober 2021** </span>
+
+**<span style="color:#ff0000"> Batas waktu aktivasi rekening PIP sampai 31 Oktober 2021</span>**
+
+**Setelah aktivasi rekening dana tidak langsung masuk ke rekening, tunggu pengumuman selanjutnya pada daftar nama Siswa SK Pemberian**
 
 
 
