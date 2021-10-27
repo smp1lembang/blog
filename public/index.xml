@@ -1,20 +1,24 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Blog</title>
-        <link>http://example.org/</link>
-        <description>This is My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 23 Oct 2021 06:07:49 &#43;0800</lastBuildDate>
-            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-        <item>
-    <title>Penerima PIP Oktober 2021</title>
-    <link>http://example.org/penerima-pip-oktober-2021/</link>
-    <pubDate>Sat, 23 Oct 2021 06:07:49 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>http://example.org/penerima-pip-oktober-2021/</guid>
-    <description><![CDATA[Pada bulan Oktober 2021 ini terdapat 16 siswa Penerima PIP, 15 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 1 siswa merupakan siswa nominasi (penerima baru)
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 23 Oct 2021 06:07:49 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Penerima PIP Oktober 2021</title>
+      <link>http://example.org/penerima-pip-oktober-2021/</link>
+      <pubDate>Sat, 23 Oct 2021 06:07:49 +0800</pubDate>
+      
+      <guid>http://example.org/penerima-pip-oktober-2021/</guid>
+      <description>Pada bulan Oktober 2021 ini terdapat 16 siswa Penerima PIP, 15 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 1 siswa merupakan siswa nominasi (penerima baru)
 Berikut daftar nama penerima PIP Oktober 2021
-Siswa SK Pemberian  Klik untuk membuka Syarat dan ketentuan
+Siswa SK Pemberian Klik untuk membukaSyarat dan ketentuan
 Daftar nama penerima
-   NO NISN NAMA ROMBEL TAHAP     1 0091981973 FITRA YUNITA 7.1 56   2 0093139343 NAHAR PATALLONGI 7.]]></description>
-</item></channel>
+   NO NISN NAMA ROMBEL TAHAP     1 0091981973 FITRA YUNITA 7.1 56   2 0093139343 NAHAR PATALLONGI 7.</description>
+    </item>
+    
+  </channel>
 </rss>
