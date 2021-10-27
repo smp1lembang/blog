@@ -10,7 +10,7 @@ Berikut daftar nama penerima PIP Oktober 2021
 
 ## Siswa SK Pemberian
 <details>
-  <summary>Klik untuk melihat daftar penerima</summary>
+  > <summary>Klik untuk melihat daftar penerima</summary>
 
   ### Daftar nama penerima
 
@@ -51,7 +51,7 @@ Berikut daftar nama penerima PIP Oktober 2021
 
 <details>
   
-  <summary>Klik untuk melihat daftar penerima</summary>
+  > <summary>Klik untuk melihat daftar penerima</summary>
 
   ### Daftar nama penerima
   
