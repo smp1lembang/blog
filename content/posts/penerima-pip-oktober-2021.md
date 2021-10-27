@@ -9,9 +9,8 @@ Pada pengumuman PIP bulan Oktober 2021 kali ini terdapat 16 siswa Penerima PIP, 
 Berikut daftar nama penerima PIP Oktober 2021
 
 ## Siswa SK Pemberian
-<details>
 
-  > <summary>Klik untuk melihat daftar penerima</summary>
+{{< admonition type=tip title="Klik untuk melihat daftar penerima" open=false >}}
 
   ### Daftar nama penerima
 
@@ -45,39 +44,10 @@ Berikut daftar nama penerima PIP Oktober 2021
   
   **Silakan melaporkan bukti terima kepada operator sekolah (Pak Azhar) hubungi di no/wa 085331308360**
 
-</details>
+{{< /admonition >}}
 
 
 ## Siswa Nominasi
-
-<details>
-  
-  > <summary>Klik untuk melihat daftar penerima</summary>
-
-  ### Daftar nama penerima
-  
-| NO | NISN       | NAMA                      | ROMBEL | TAHAP |
-| -- | ---------- | ------------------------- | ------ | ----- |
-| 1  | 0078321145 | LAILATUL MUFIDA RAMADHANI | 9.4    | 30    |
-
-### Syarat dan ketentuan
-Siswa Nominasi harus terlebih dahulu mengaktifkan / membuat rekening di bank penyalur
-
-Aktivasi rekening SimPel PIP Dikdasmen langsung oleh Peserta Didik dilakukan dengan persyaratan sebagai berikut:
-
-1. Surat Keterangan Aktivasi Rekening SimPel PIP Dikdasmen (sudah ada di Bank BRI Bungi)
-2. Identitas Pengenal Penerima.
-  - KTP orang tua/wali; dan
-  - KK.
-  - Halaman identitas pada rapor
-
-<span style="color:#ff0000"> **Batas waktu aktivasi rekening PIP sampai 31 Oktober 2021** </span>
-
-**Setelah aktivasi rekening dana tidak langsung masuk ke rekening, tunggu pengumuman selanjutnya pada daftar nama Siswa SK Pemberian**
-
-
-
-</details>
 
 {{< admonition type=tip title="Klik untuk melihat daftar penerima" open=false >}}
 
@@ -102,8 +72,4 @@ Aktivasi rekening SimPel PIP Dikdasmen langsung oleh Peserta Didik dilakukan den
 
 **Setelah aktivasi rekening dana tidak langsung masuk ke rekening, tunggu pengumuman selanjutnya pada daftar nama Siswa SK Pemberian**
 
-{{< /admonition >}}
-Or
-{{< admonition tip "This is a tip" false >}}
-A **tip** banner
 {{< /admonition >}}
