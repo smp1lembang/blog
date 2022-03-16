@@ -1,5 +1,5 @@
 ---
-title: "Penerima Pip Maret 2022"
+title: "Penerima PIP Maret 2022"
 date: 2022-03-16T13:45:22+08:00
 draft: false
 ---
@@ -131,7 +131,7 @@ Berikut daftar nama penerima PIP Maret 2022
 | 111 | 0071089875 | SYAMSINAR               | 9.6    | 1     |
 
 ### Syarat dan ketentuan
-  Bagi siswa SK pemberian dapat langsung melakukan pencairan / penarikan dana di bank penyalur (BRI Bungi) baik melalui teller BRI maupun lewat mesin ATM.
+  Bagi siswa yang namanya tercantum pada daftar nama di atas agar terlebih dahulu melapor / bertandatangan pada formulir penerima PIP, selanjutnya dapat melakukan pencairan dana ke cabang BRI, baik melalui teller BRI maupun lewat mesin ATM.
   
   Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana, yaitu:
   1) foto buku rekening halaman pertama 
