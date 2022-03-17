@@ -140,6 +140,6 @@ Berikut daftar nama penerima PIP Maret 2022
   
   <span style="color:#ff0000"> **Siswa yang tidak melaporkan bukti telah menerima dana tidak akan diusulkan sebagai penerima pada tahap / tahun berikutnya** </span>
   
-  **Silakan melaporkan bukti terima kepada operator sekolah (Pak Azhar) hubungi di no/wa 085331308360**
+  **Silakan melaporkan bukti terima dengan mengisi formulir berikut: https://s.id/pip2022**
 
 {{< /admonition >}}
