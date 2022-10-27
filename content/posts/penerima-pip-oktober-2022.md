@@ -1,5 +1,5 @@
 ---
-title: "Penerima Pip Oktober 2022"
+title: "Penerima PIP Oktober 2022"
 date: 2022-10-27T13:45:05+08:00
 draft: false
 ---
