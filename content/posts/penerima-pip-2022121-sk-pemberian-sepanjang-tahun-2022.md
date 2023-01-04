@@ -1,5 +1,5 @@
 ---
-title: "Penerima Pip Sk Pemberian Sepanjang Tahun 2022"
+title: "Penerima PIP SK Pemberian Sepanjang Tahun 2022"
 date: 2023-01-05T00:06:07+08:00
 draft: false
 ---
