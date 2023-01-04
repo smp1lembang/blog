@@ -3,7 +3,6 @@ title: "Penerima PIP 2022-12 SK Nominasi"
 date: 2023-01-04T23:41:48+08:00
 draft: false
 ---
-isinya beda kali yaa
 Pemerintah melalui Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi kembali menyalurkan bantuan dana pendidikan melalui Program Indonesia Pintar (PIP) untuk periode Desember 2022.
 
 Pada pengumuman PIP bulan Desember 2022 kali ini terdapat 6 siswa Penerima PIP, semua penerima merupakan Siswa SK Nominasi (Perlu Aktivasi rekening) dari tahap 36 dan tahap 39.
