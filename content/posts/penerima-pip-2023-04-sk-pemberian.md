@@ -84,6 +84,7 @@ Berikut daftar namanya
 ### Syarat dan ketentuan
 
 Bagi siswa yang namanya tercantum pada daftar nama di atas dapat melakukan pencairan dana ke cabang BRI sesuai tahap dan keterangan pencairan.
+
 <span style="color:#ff0000"> **Mulai bisa dicairkan PALING CEPAT tanggal 1 April 2023** </span>
 
 Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana, yaitu:
