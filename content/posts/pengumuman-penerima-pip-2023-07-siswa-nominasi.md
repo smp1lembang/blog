@@ -83,7 +83,7 @@ Aktivasi rekening SimPel PIP Dikdasmen langsung oleh Peserta Didik dilakukan den
 - KK.
 - Halaman identitas pada rapor
 
-<span style="color:#ff0000"> **Batas waktu aktivasi rekening PIP sampai 31 Oktober 2021** </span>
+<span style="color:#ff0000"> **Batas waktu aktivasi rekening PIP sampai 31 Juli 2023** </span>
 
 **Setelah aktivasi rekening dana tidak langsung masuk ke rekening, tunggu pengumuman selanjutnya pada daftar nama Siswa SK Pemberian**
 
