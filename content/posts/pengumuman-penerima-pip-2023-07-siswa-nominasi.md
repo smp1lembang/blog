@@ -1,5 +1,5 @@
 ---
-title: "Pengumuman Penerima PIP Siswa Nominasi Juli 2023"
+title: "Pengumuman Penerima PIP Juli 2023"
 date: 2023-07-10T11:43:24+08:00
 draft: false
 ---
