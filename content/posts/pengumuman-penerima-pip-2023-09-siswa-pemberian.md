@@ -6,8 +6,7 @@ draft: true
 
 Pemerintah melalui Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi kembali menyalurkan bantuan dana pendidikan melalui Program Indonesia Pintar (PIP) untuk periode Juli 2023.
 
-Pada pengumuman PIP bulan Juli 2023 kali ini terdapat 26 siswa Penerima PIP, 21 siswa merupakan Siswa SK Pemberian (penerima lanjutan) dan 5 siswa merupakan Siswa SK Nominasi (Perlu aktivasi)
-
+Pada pengumuman PIP bulan September 2023 kali ini terdapat 5 siswa merupakan Siswa SK Pemberian (penerima lanjutan)
 Berikut daftar nama penerima PIP Maret 2022
 
 ## Siswa SK Pemberian
