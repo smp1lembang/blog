@@ -1,7 +1,7 @@
 ---
-title: "Pengumuman Penerima Pip 2023 09 Siswa Pemberian"
+title: "Pengumuman Penerima PIP 2023 09 Siswa Pemberian"
 date: 2023-09-05T10:17:05+08:00
-draft: true
+draft: false
 ---
 
 Pemerintah melalui Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi kembali menyalurkan bantuan dana pendidikan melalui Program Indonesia Pintar (PIP) untuk periode Juli 2023.
