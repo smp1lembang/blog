@@ -92,7 +92,7 @@ Siswa Nominasi harus terlebih dahulu mengaktifkan / membuat rekening di bank pen
 
 Aktivasi rekening SimPel PIP Dikdasmen langsung oleh Peserta Didik dilakukan dengan persyaratan sebagai berikut:
 
-1. Surat Keterangan Aktivasi Rekening SimPel PIP Dikdasmen (sudah ada di Bank BRI Bungi)
+1. Surat Keterangan Aktivasi Rekening SimPel dari Kepala Sekolah
 2. Identitas Pengenal Penerima.
 
 - KTP orang tua/wali; dan
