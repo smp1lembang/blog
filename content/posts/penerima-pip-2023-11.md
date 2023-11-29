@@ -1,5 +1,5 @@
 ---
-title: "Pengumuman Penerima PIP Periode November 2023 SK Pemberian & SK Nominasi"
+title: "Pengumuman Penerima Beasiswa PIP Periode November 2023 SK Pemberian & SK Nominasi"
 date: 2023-11-29T09:37:33+08:00
 draft: false
 ---
