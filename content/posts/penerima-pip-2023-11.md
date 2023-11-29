@@ -5,7 +5,9 @@ draft: false
 ---
 
 Pada pengumuman PIP Periode November 2023 kali ini terdapat 36 siswa Penerima PIP. 
+
 SK Pemberian (penerima lanjutan)    = 32 siswa (Tahap 250, 253, 289, 292, 312, 315, 327)
+
 SK Nominasi (Perlu aktivasi)        = 4 siswa (Tahap 66, 69, 93)
 
 Berikut daftar nama siswa penerima bantuan PIP
@@ -54,6 +56,7 @@ Berikut daftar nama siswa penerima bantuan PIP
 ### Syarat dan ketentuan
 
 Untuk tahap 250 dan 253 Dana sudah cair dan dapat ditarik 
+
 Untuk tahap 289, 292, 312, 315, 327 Dana cair paling cepat 6 Desember 2023
 
 Bagi siswa SK pemberian yang telah cair dapat langsung melakukan penarikan dana di bank penyalur (BRI Bungi) baik melalui teller BRI maupun lewat mesin ATM.
