@@ -4,7 +4,7 @@ date: 2024-04-26T09:37:33+08:00
 draft: false
 ---
 
-Pada pengumuman PIP Periode April 2024 kali ini terdapat 36 siswa Penerima PIP. 
+Pada pengumuman PIP Periode April 2024 kali ini terdapat 121 siswa Penerima PIP. 
 
 SK Pemberian (penerima lanjutan)    = 104 siswa (Tahap 4, 8, 11, 14, 17, 20)
 
