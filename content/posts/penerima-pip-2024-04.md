@@ -140,7 +140,9 @@ Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana,
 
 **Silakan melaporkan bukti terima kepada Staf Tata Usaha**
 
-**Semua pelayanan terkait PIP tidak dikenakan biaya (GRATIS). Abaikan jika ada pihak-pihak yang meminta biaya. UPT SMP Negeri 1 Lembang berkomitmen pelayanan bebas Pungli**
+**Semua pelayanan terkait PIP tidak dikenakan biaya (GRATIS). Abaikan jika ada pihak-pihak yang meminta biaya.**
+
+**UPT SMP Negeri 1 Lembang berkomitmen memberikan pelayanan bebas Pungli**
 
 {{< /admonition >}}
 
