@@ -138,7 +138,9 @@ Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana,
 
 <span style="color:#ff0000"> **Siswa yang tidak melaporkan bukti telah menerima dana tidak akan diusulkan sebagai penerima pada tahap / tahun berikutnya** </span>
 
-**Silakan melaporkan bukti terima kepada operator sekolah (Pak Azhar) hubungi di no/wa 085331308360**
+**Silakan melaporkan bukti terima kepada Staf Tata Usaha**
+
+**Semua pelayanan terkait PIP tidak dikenakan biaya (GRATIS). Abaikan jika ada pihak-pihak yang meminta biaya. UPT SMP Negeri 1 Lembang berkomitmen pelayanan bebas Pungli**
 
 {{< /admonition >}}
 
