@@ -130,10 +130,14 @@ Berikut daftar nama siswa penerima bantuan PIP
 
 Bagi siswa SK pemberian yang telah cair dapat langsung melakukan penarikan dana di bank penyalur (BRI Bungi) baik melalui teller BRI maupun lewat mesin ATM.
 
+Untuk penarikan dana lewat Teller harus membawa
+1. Buku tabungan BRI SimPel
+2. Identitas (KTP & Kartu Keluarga)
+
 Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana, yaitu:
 
-1. foto buku rekening halaman pertama
-2. halaman mutasi terakhir tabungan
+1. Foto buku rekening halaman pertama
+2. Halaman mutasi terakhir tabungan
 3. Identitas (KIA/KTP/Kartu Keluarga/Rapor)
 
 <span style="color:#ff0000"> **Siswa yang tidak melaporkan bukti telah menerima dana tidak akan diusulkan sebagai penerima pada tahap / tahun berikutnya** </span>
