@@ -132,7 +132,7 @@ Bagi siswa SK pemberian yang telah cair dapat langsung melakukan penarikan dana 
 
 Untuk penarikan dana lewat Teller harus membawa
 1. Buku tabungan BRI SimPel
-2. Identitas (KTP & Kartu Keluarga)
+2. Identitas orang tua / wali (KTP & Kartu Keluarga)
 
 Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana, yaitu:
 
