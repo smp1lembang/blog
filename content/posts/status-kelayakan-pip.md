@@ -4,17 +4,11 @@ date: 2024-07-15T09:37:33+08:00
 draft: false
 ---
 
-Pada pengumuman PIP Periode Agustus 2024 kali ini terdapat 11 siswa Penerima PIP. 
+## Siswa status tidak layak (tidak diusulkan sekolah)
 
-SK Pemberian (penerima lanjutan)    = 11 siswa (Tahap 64, 87, 90, 93)
+{{< admonition type=tip title="Klik untuk melihat daftar nama" open=false >}}
 
-Berikut daftar nama siswa penerima bantuan PIP
-
-## Siswa SK Pemberian
-
-{{< admonition type=tip title="Klik untuk melihat daftar penerima" open=false >}}
-
-### Daftar nama penerima
+### Daftar nama
 
 | No  | Nama                                          | JK | Rombel | Ayah                    | Pekerjaan       | Ibu                  | Pekerjaan              | Layak PIP | Alasan Layak PIP |
 | --- | --------------------------------------------- | -- | ------ | ----------------------- | --------------- | -------------------- | ---------------------- | --------- | ---------------- |
@@ -241,36 +235,16 @@ Berikut daftar nama siswa penerima bantuan PIP
 | 221 | Shifarah Dinara                               | P  | 9,5    | Kadir Ahmad             | Wiraswasta      | Sarlina              | Wiraswasta             | Tidak     |                  |
 | 222 | Surianti                                      | P  | 9,5    | Suardi                  | Wiraswasta      | Yuliana              | Tidak bekerja          | Tidak     |                  |
 
-### Syarat dan ketentuan
 
-Bagi siswa SK pemberian yang telah cair dapat langsung melakukan penarikan dana di bank penyalur (BRI Bungi) baik melalui teller BRI maupun lewat mesin ATM.
-
-Untuk penarikan dana lewat Teller harus membawa
-1. Buku tabungan BRI SimPel
-2. Identitas orang tua / wali (KTP & Kartu Keluarga)
-
-Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana, yaitu:
-
-1. Foto buku rekening halaman pertama
-2. Halaman mutasi terakhir tabungan
-3. Identitas (KIA/KTP/Kartu Keluarga/Rapor)
-
-<span style="color:#ff0000"> **Siswa yang tidak melaporkan bukti telah menerima dana tidak akan diusulkan sebagai penerima pada tahap / tahun berikutnya** </span>
-
-**Silakan melaporkan bukti terima kepada Staf Tata Usaha**
-
-**Semua pelayanan terkait PIP tidak dikenakan biaya (GRATIS). Abaikan jika ada pihak-pihak yang meminta biaya.**
-
-**UPT SMP Negeri 1 Lembang berkomitmen memberikan pelayanan bebas Pungli**
 
 {{< /admonition >}}
 
 
-## Siswa SK Pemberian
+## Siswa status layak (diusulkan sekolah)
 
-{{< admonition type=tip title="Klik untuk melihat daftar penerima" open=false >}}
+{{< admonition type=tip title="Klik untuk melihat daftar nama" open=false >}}
 
-### Daftar nama penerima
+### Daftar nama
 
 | No  | Nama                             | JK | Rombel | Ayah                      | Pekerjaan       | Ibu                | Pekerjaan              | Layak PIP | Alasan Layak PIP |
 | --- | -------------------------------- | -- | ------ | ------------------------- | --------------- | ------------------ | ---------------------- | --------- | ---------------- |
@@ -527,27 +501,5 @@ Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana,
 | 251 | Rahma                            | P  | 9,5    | Rudi                      | Petani          | Nining             | Petani                 | Ya        | Miskin           |
 | 252 | SHYAIDIL                         | L  | 9,5    | Billung                   | Petani          | Hasnah             | Tidak bekerja          | Ya        |                  |
 | 253 | Syahrini                         | P  | 9,5    | LAIHI                     | Wiraswasta      | Erni               | Tidak bekerja          | Ya        | Miskin           |
-
-### Syarat dan ketentuan
-
-Bagi siswa SK pemberian yang telah cair dapat langsung melakukan penarikan dana di bank penyalur (BRI Bungi) baik melalui teller BRI maupun lewat mesin ATM.
-
-Untuk penarikan dana lewat Teller harus membawa
-1. Buku tabungan BRI SimPel
-2. Identitas orang tua / wali (KTP & Kartu Keluarga)
-
-Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana, yaitu:
-
-1. Foto buku rekening halaman pertama
-2. Halaman mutasi terakhir tabungan
-3. Identitas (KIA/KTP/Kartu Keluarga/Rapor)
-
-<span style="color:#ff0000"> **Siswa yang tidak melaporkan bukti telah menerima dana tidak akan diusulkan sebagai penerima pada tahap / tahun berikutnya** </span>
-
-**Silakan melaporkan bukti terima kepada Staf Tata Usaha**
-
-**Semua pelayanan terkait PIP tidak dikenakan biaya (GRATIS). Abaikan jika ada pihak-pihak yang meminta biaya.**
-
-**UPT SMP Negeri 1 Lembang berkomitmen memberikan pelayanan bebas Pungli**
 
 {{< /admonition >}}
