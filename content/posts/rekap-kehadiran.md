@@ -16,7 +16,7 @@ Untuk pengisian data ketidakhadiran silakan mengisi pada tautan di bawah berdasa
 
 {{< admonition type=tip title="Klik untuk membuka" open=false >}}
 
-### Daftar nama
+### Kelas 7
 
 [Kelas 7.1](https://docs.google.com/forms/d/e/1FAIpQLSe9Zwjo5PktDf-J1Yjpmrwnx0DEHbDyZZFUpECoRSpURvkLng/viewform?usp=sf_link)
 
@@ -35,7 +35,7 @@ Untuk pengisian data ketidakhadiran silakan mengisi pada tautan di bawah berdasa
 
 {{< admonition type=tip title="Klik untuk membuka" open=false >}}
 
-### Daftar nama
+### Kelas 8
 
 [Kelas 8.1](https://docs.google.com/forms/d/e/1FAIpQLSdEFQfiBRfNjCFRWDYwXi9SeKjNPBZ33z621KO-PAKsK8-flw/viewform?usp=sf_link)
 
@@ -57,7 +57,7 @@ Untuk pengisian data ketidakhadiran silakan mengisi pada tautan di bawah berdasa
 
 {{< admonition type=tip title="Klik untuk membuka" open=false >}}
 
-### Daftar nama
+### Kelas 9
 
 [Kelas 9.1](https://docs.google.com/forms/d/e/1FAIpQLSfD-oCUGU3dDwJXkzpYetbqGZyOHR-pHS59llBq5SV93Vud7g/viewform?usp=sf_link)
 
