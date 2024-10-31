@@ -4,21 +4,17 @@ date: 2024-10-30T09:37:33+08:00
 draft: false
 ---
 
-Pada pengumuman PIP Periode Agustus 2024 kali ini terdapat 11 siswa Penerima PIP. 
+Rekap kehadiran dapat dilihat pada tautan berikut :
 
-SK Pemberian (penerima lanjutan)    = 11 siswa (Tahap 64, 87, 90, 93)
+[Rekap kehadiran](#)
 
-Berikut daftar nama siswa penerima bantuan PIP
-
-
-
-
+Untuk pengisian data ketidakhadiran silakan mengisi pada tautan di bawah berdasarkan kelas
 
 
 
 ## Kelas 7
 
-{{< admonition type=tip title="Klik untuk melihat daftar nama" open=false >}}
+{{< admonition type=tip title="Klik untuk membuka" open=false >}}
 
 ### Daftar nama
 
@@ -37,7 +33,7 @@ Berikut daftar nama siswa penerima bantuan PIP
 
 ## Kelas 8
 
-{{< admonition type=tip title="Klik untuk melihat daftar nama" open=false >}}
+{{< admonition type=tip title="Klik untuk membuka" open=false >}}
 
 ### Daftar nama
 
@@ -59,7 +55,7 @@ Berikut daftar nama siswa penerima bantuan PIP
 
 ## Kelas 9
 
-{{< admonition type=tip title="Klik untuk melihat daftar nama" open=false >}}
+{{< admonition type=tip title="Klik untuk membuka" open=false >}}
 
 ### Daftar nama
 
