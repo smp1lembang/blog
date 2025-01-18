@@ -4,11 +4,11 @@ date: 2025-01-18T09:37:33+08:00
 draft: false
 ---
 
-Pada pengumuman PIP Periode April 2024 kali ini terdapat 121 siswa Penerima PIP. 
+Pada pengumuman PIP Periode Desember 2024 kali ini terdapat 44 siswa Penerima PIP. 
 
-SK Pemberian (penerima lanjutan)    = 104 siswa (Tahap 4, 8, 11, 14, 17, 20)
+SK Pemberian (penerima lanjutan)    = 33 siswa (Tahap 195, 201, 257, 260, 302, 305, 333, 334, 335, 338)
 
-SK Nominasi (Perlu aktivasi)        = 17 siswa (Tahap 4, 10, 13, 16)
+SK Nominasi (Perlu aktivasi)        = 13 siswa (Tahap 10, 16, 71, 74)
 
 
 Berikut daftar nama siswa penerima bantuan PIP
