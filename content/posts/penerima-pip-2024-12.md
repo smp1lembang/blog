@@ -55,7 +55,7 @@ Berikut daftar nama siswa penerima bantuan PIP
 
 ### Syarat dan ketentuan
 
-Bagi siswa SK pemberian yang telah cair dapat langsung melakukan penarikan dana di bank penyalur (BRI Bungi) baik melalui teller BRI maupun lewat mesin ATM.
+Bagi siswa SK pemberian yang telah cair dapat langsung melakukan penarikan dana di bank penyalur (BRI Tuppu) baik melalui teller BRI maupun lewat mesin ATM.
 
 Untuk penarikan dana lewat Teller harus membawa
 1. Buku tabungan BRI SimPel
