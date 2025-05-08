@@ -1,5 +1,5 @@
 ---
-title: "Pengumuman Penerima Beasiswa PIP Periode Mai 2025 SK Pemberian"
+title: "Pengumuman Penerima Beasiswa PIP Periode Mei 2025 SK Pemberian"
 date: 2025-05-07T09:37:33+08:00
 draft: false
 ---
