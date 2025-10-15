@@ -85,21 +85,15 @@ Setelah dana masuk di rekening siswa harus melaporkan bukti telah menerima dana,
 
 ### Daftar nama penerima
 
-| No. | NISN       | NAMA                   | ROMBEL | TAHAP |
-| --- | ---------- | ---------------------- | ------ | ----- |
-| 1   | 0128829695 | HIJRAH NURJANNA        | 7,2    | 71    |
-| 2   | 0111363106 | MUH. ISMAIL            | 7,2    | 71    |
-| 3   | 0115041309 | MUH. NASRUL            | 7,2    | 71    |
-| 4   | 3120638766 | MUHAMMAD KHALIK SUARDI | 7,2    | 71    |
-| 5   | 0113036083 | MOHAMMAD AZWAN         | 7,5    | 71    |
-| 6   | 0109021704 | MUH. FARID KAMIL       | 7,5    | 16    |
-| 7   | 0101242786 | HAIRIL                 | 8,1    | 74    |
-| 8   | 0102932641 | RUSMAN                 | 8,1    | 10    |
-| 9   | 0106695647 | MUH. RENALDI           | 8,3    | 74    |
-| 10  | 0119364134 | MIKA                   | 8,4    | 74    |
-| 11  | 0119305718 | TASYA PUTRI HAMZAH     | 8,4    | 74    |
-| 12  | 0115550146 | SYARHAN NUR ASWAR      | 8,5    | 74    |
-| 13  | 3098860834 | SISKA RAMADANI         | 9,1    | 74    |
+| NAMA             | NISN       | ROMBEL | TAHAP |
+| ---------------- | ---------- | ------ | ----- |
+| AULIA RAMADHANI  | 3123321616 | 8,1    | 19    |
+| NUR SYAKIRA BABA | 0125663972 | 8,1    | 19    |
+| MUHAMMAD IDAM    | 0112481381 | 8,2    | 19    |
+| SITTI AIZYA      | 0116064224 | 8,4    | 19    |
+| MUH. FARID KAMIL | 0109021704 | 9,5    | 19    |
+| ALIF SYAMSUL     | 0113731524 | 9,6    | 19    |
+| PITA             | 3113189343 | 9,6    | 19    |
 
 ### Syarat dan ketentuan
 
@@ -114,7 +108,7 @@ Aktivasi rekening SimPel PIP Dikdasmen langsung oleh Peserta Didik dilakukan den
 - KK.
 - Halaman identitas pada rapor
 
-<span style="color:#ff0000"> **Batas waktu aktivasi rekening PIP sampai 31 Januari 2025** </span>
+<span style="color:#ff0000"> **Batas waktu aktivasi rekening PIP sampai 31 Desember 2025** </span>
 
 **Setelah aktivasi rekening dana tidak langsung masuk ke rekening, tunggu pengumuman selanjutnya pada daftar nama Siswa SK Pemberian**
 
