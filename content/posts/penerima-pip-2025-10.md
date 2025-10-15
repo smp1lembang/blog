@@ -1,6 +1,6 @@
 ---
 title: "Pengumuman Penerima Beasiswa PIP Periode Oktober 2025 SK Pemberian & SK Nominasi"
-date: 2025-01-18T09:37:33+08:00
+date: 2025-10-14T09:37:33+08:00
 draft: false
 ---
 
